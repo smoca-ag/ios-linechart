@@ -1,3 +1,7 @@
+# smoca change
+
+new branch: moved xLabel to top of view (even -3 px out of frame)
+
 # ios-linechart
 Interactive linecharts for the simplicity-loving iOS developer.
 
